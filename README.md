@@ -325,31 +325,31 @@ Na parte de desenvolvimento contribui com todo o Back-end ajudando a desenvolver
 
 ## Meus Principais Conhecimentos
 
-NodeJS;
+- NodeJS;
 
-TypeScript;
+- TypeScript;
 
-JavaScript;
+- JavaScript;
 
-Docker;
+- Docker;
 
-PostgreSQL;
+- PostgreSQL;
 
-MongoDB;
+- MongoDB;
 
-Jest;
+- Jest;
 
-Scrum;
+- Scrum;
 
-Documentações;
+- Documentações;
 
-Swagger.
+- Swagger.
 
 
 ## Contatos
 
-[GitHub](https://github.com/EvandroRBR)
+- [GitHub](https://github.com/EvandroRBR)
 
-[Linkedin](https://www.linkedin.com/in/evandro-rodrigues-de-melo-braga-1aa677149/)
+- [Linkedin](https://www.linkedin.com/in/evandro-rodrigues-de-melo-braga-1aa677149/)
 
 
