@@ -22,7 +22,7 @@ O **Smart Irrigation** (do inglês, Irrigação Inteligente) é um sistema que p
 A escolha do microcontrolador Arduino Uno foi escolhido pois possui uma quantidade enorme de sensores e componentes que você pode utilizar nos seus projetos. Grande parte do material utilizado está disponível em módulos, que são pequenas placas que contém os sensores e outros componentes auxiliares como resistores, capacitores e leds. Existem também os chamados Shields, que são placas que você encaixa no Arduino para expandir suas funcionalidades. 
 Tendo em vista estas facilidades e funcionalidades do Arduino, foram então escolhidos os sensores compatíveis com este modelo para montagem do projeto.
 
-A linguagem de programação base do arduino é o C++ que foi utilizado para programar o hardware .
+A linguagem de programação base do arduino é o C++ que foi utilizado para programar o hardware.
 
 ### Software
 Kodular: Um site capaz de trabalhar com programação em blocos para gerar aplicativos para plataforma móvel Android, foi usado para o desenvolvimento do aplicativo mobile;
@@ -108,7 +108,7 @@ Na parte de desenvolvimento ajudei a desenvolver o código responsável em anál
 
 - Organização do projeto: Com uma equipe de 5 pessoas e com um problema de escopo aberto foi necessário definir muito bem qual seria a atuação de cada participante para que todos os requisitos fossem desenvolvidos e o trabalho finalizado com sucesso;
 
-- Resiliência: Foi meu primeiro contato como desenvolvedor com uma empresa real e com um desafio grande foi necessário muita determinação pois não sabíamos como desenvolver o que era necessário, isso devido a falta de experiência pois eramos alunos do segundo semestre ;
+- Resiliência: Foi meu primeiro contato como desenvolvedor com uma empresa real e com um desafio grande foi necessário muita determinação pois não sabíamos como desenvolver o que era necessário, isso devido a falta de experiência pois eramos alunos do segundo semestre;
 
 - Trabalho em equipe: Como o desafio que era bem novo para todos nós, foi crucial a participação de todos ajudando em tudo o que era necessário;
 
@@ -121,7 +121,7 @@ Na parte de desenvolvimento ajudei a desenvolver o código responsável em anál
 
 No terceiro semestre a empresa parceira foi a Visiona que nos enviou um desafio que foi em desenvolver sistema web ETL (Extract, Transform and Load)
 
-A **VisGEO** é uma ferramenta web onde usuário pode armazenar dados geográficos contidos em shapefiles, para isso a ferramenta transforma esses dados em um formato compatível com o que o banco, sendo possível também recuperar o que está salvo e convertendo novamente para um shapefile
+A **VisGEO** é uma ferramenta web onde usuário pode armazenar dados geográficos contidos em shapefiles, para isso a ferramenta transforma esses dados em um formato compatível com o que o banco, sendo possível também recuperar o que está salvo e convertendo novamente para um shapefile.
 
 ![ViaGeo - Capa](https://user-images.githubusercontent.com/56441371/93688444-5704dc80-fa9c-11ea-8bed-fdac35ce7337.png)
 
@@ -182,7 +182,7 @@ Na parte de desenvolvimento ajudei a buscar melhores maneiras de armazenar os da
 
 - Resiliência: Assim como os outros projetos a VisGEO foi bem desafiadora e sempre com a ajuda de todos seguimos firmes no propósito de desenvolver esse sistema e aprender cada vez mais;
 
-- Trabalho em equipe: Foi um desafio muito novo para todos nós, pois não sabíamos o que era um shapefile e no início não tínhamos ideia de como resolver esse problema, então com o apoio e determinação de todos entregamos tudo o que foi proposto no início do semestre.
+- Trabalho em equipe: Foi um desafio muito novo para todos nós, pois não sabíamos o que era um shapefile e no início não tínhamos ideia de como resolver esse problema, então com o apoio e determinação de todos entregamos tudo o que foi proposto no início do semestre;
 
 - Comunicação: Como eramos em 9 foi imprescindível uma boa comunicação com reuniões quase todos os dias, já que estávamos no sistema de ensino remoto por conta da pandemia de COVID 19, para alinhar como estava andamento de cada um no projeto, sempre sendo solicito ajudando e recebendo ajuda.
 
@@ -215,11 +215,11 @@ https://github.com/Typext
 
 - Docker - É uma forma de virtualizar aplicações no conceito de “containers”, trazendo da web ou de seu repositório interno uma imagem completa, utilizamos Docker para facilitar a instalação do sistema entre os desenvolvedores;
 
-- Jest - É uma estrutura de teste de JavaScript mantida pelo Facebook, projetada e construída por Christoph Nakazawa com foco na simplicidade e suporte para grandes aplicativos da web. Utilizamos Jest para fazer os testes unitários do sistema.
+- Jest - É uma estrutura de teste de JavaScript mantida pelo Facebook, projetada e construída por Christoph Nakazawa com foco na simplicidade e suporte para grandes aplicativos da web. Utilizamos Jest para fazer os testes unitários do sistema;
 
-- StyledComponents - Uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript sendo a base de toda a estilização do projeto.
+- StyledComponents - Uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript sendo a base de toda a estilização do projeto;
 
-- Swagger - Ferramenta que permite que você descreva a estrutura de APIs de uma forma facilitada onde é possível a interpretação tanto por humanos quanto por máquinas. Utilizamos para documentar as rotas da api
+- Swagger - Ferramenta que permite que você descreva a estrutura de APIs de uma forma facilitada onde é possível a interpretação tanto por humanos quanto por máquinas. Utilizamos para documentar as rotas da api.
 
 
 ## Contribuições Pessoais
@@ -252,7 +252,7 @@ Na parte de desenvolvimento contribui com todo o Back-end ajudando a desenvolver
 
 - Resiliência: Assim como os outros projetos o Typext foi bem desafiador e sempre com a ajuda de todos seguimos firmes no propósito de desenvolver esse sistema e aprender cada vez mais;
 
-- Trabalho em equipe: Esse projeto foi o maior que tivemos até então e foi fundamental o trabalho de cada um ajudando no que podia mas, com a mesma equipe do semestre anterior tudo correu muito bem pois já estavamos entrosados e sempre tivemos uma boa comunicação.
+- Trabalho em equipe: Esse projeto foi o maior que tivemos até então e foi fundamental o trabalho de cada um ajudando no que podia mas, com a mesma equipe do semestre anterior tudo correu muito bem pois já estavamos entrosados e sempre tivemos uma boa comunicação;
 
 - Comunicação: Como eramos em 9 foi imprescindível uma boa comunicação com reuniões quase todos os dias, já que estávamos no sistema de ensino remoto por conta da pandemia de COVID 19, para alinhar como estava andamento de cada um no projeto, sempre sendo solicito ajudando e recebendo ajuda.
 
@@ -283,7 +283,7 @@ https://github.com/Cars-on
 
 - ReactJs - Uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário utilizamos ReactJs pois é uma grande ferramenta de desenvolvimento Front-end, muito utilizada no mercado e também era a ferramenta que o grupo tinha maior conhecimento;
 
-- MongoDB - É um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++, Classificado como um programa de banco de dados NoSQL. Utilizamos Mongo por ser muito rápido e uma das necessidades do cliente é o desempenho pois a intenção do mesmo é enviar arquivos CSVs com grande quantidade de dados, e também porque funciona muito bem para chat, outro motivo é que nos outros projetos utilizamos banco de dados relacionais e por razão de aprendizado optamos pelo mongo.
+- MongoDB - É um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++, Classificado como um programa de banco de dados NoSQL. Utilizamos Mongo por ser muito rápido e uma das necessidades do cliente é o desempenho pois a intenção do mesmo é enviar arquivos CSVs com grande quantidade de dados, e também porque funciona muito bem para chat, outro motivo é que nos outros projetos utilizamos banco de dados relacionais e por razão de aprendizado optamos pelo mongo;
 
 - Typeorm - É um ORM que pode ser utilizado em plataformas como o Node, Ionic, dentre outras, e que possibilita o desenvolvimento tanto com JavaScript como com TypeScript. Utilizamos o Typeorm pela escalabilidade que essa ferramenta pode trazer e por ser muito boa quando combinada com o TypeScript;
 
