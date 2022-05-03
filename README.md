@@ -323,6 +323,70 @@ Na parte de desenvolvimento contribui com todo o Back-end ajudando a desenvolver
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Em 2022-1
+
+![UOL_logo](https://user-images.githubusercontent.com/56441371/166370743-682bb6b6-f0a2-4231-917d-333dd749a232.png)
+
+
+No sexto semestre a empresa parceira foi a UOL e o desafio proposto foi desenvolver um sistema capaz de prever indisponibilidades utilizando inteligência artificial.
+
+A **Resuolve** é uma ferramenta capaz de monitorar, prever e alertar quando um sistema ficará indisponível, utilizando inteligência artificial para gerar os alertas com antecedência quando houver alguma falha, enviando mensagem para alguma plataforma que o time de desenvolvimento utiliza como o slack ou discord.
+
+![resuolve](https://user-images.githubusercontent.com/56441371/166390755-5976ef20-8114-4786-acf4-0c523024ae61.png)
+
+https://github.com/FatecAPITeam
+
+## Tecnologias Utilizadas
+
+![tec resuolve](https://user-images.githubusercontent.com/56441371/166390769-3a4986f4-dea5-46c3-839e-eb7d36131f33.png)
+
+- VueJs - VueJs é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única (SPA), utilizamos VueJs porque foi um requisito solicitado pela Fatec.
+
+- SpringBoot/Java - O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais, utilizamos VueJs porque foi um requisito solicitado pela Fatec.
+
+- Prometheus - O Prometheus é um kit de ferramentas de monitoramento e alerta de sistemas de código aberto originalmente construído no SoundCloud. Desde a sua criação em 2012, utilizamos Prometheus por ser uma ferramente capaz de gerar métricas em um banco de dados temporal sendo possível coleta-las para as previsões de indisponibilidade.
+
+- Grafana - Grafana é uma aplicação web de análise de código aberto multiplataforma e visualização interativa da web. Ele fornece tabelas, gráficos e alertas para a Web quando conectado a fontes de dados suportadas, utilizamos o Grafana por ser uma ferramenta que funciona muito bem com os dados coletados pelo Prometheus.
+
+- Python - Python é uma linguagem de programação de alto nível. Utilizamos essa linguagem para fazer treinamento dos modelos de dados utilizando Machine Learning.
+
+- PostgreSQL - Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto Open-Source. Utilizmos o Postgres por ser um banco de dados open-source robusto e por ser o banco de maior conhecimento entre os desenvolvedores do projeto;
+
+## Contribuições Pessoais
+
+Nesse projeto atuei como Product Owner entendendo a necessidade do cliente, coletando informações de como desenvolver o projeto visando a satisfação do usuário final, fazendo o levantamento dos requisitos e ajudando a equipe em tudo o que foi necessário sobre o entendimento do projeto, também ajudei a estruturar e definir as responsabilidades junto com o Scrum Master.
+
+Por ser um sistema de monitoramento e alerta com previsões através de inteligência artificial esse projeto foi particularmente desafiador, pois nenhum dos integrantes do grupo tinha experiência prévia com as tecnologias utilizadas para o monitoramento e inteligência artificial.
+
+Na parte de desenvolvimento contribui com a configuração do Prometheus e Grafana salvando os dados em um banco e gerando métricas para o modelo de Machine Learning
+
+
+## Hard Skills
+
+- VueJs: Sei a utilizar com ajuda;
+
+- SpringBoot/Java: Sei a utilizar com ajuda;
+
+- Prometheus: Sei a utilizar com ajuda;
+
+- Grafana: Sei a utilizar com ajuda;
+
+- Python: Sei a utilizar com ajuda;
+
+- PostgreSQL: Sei utilizar com autonomia;
+
+
+## Soft Skills
+
+- Organização do projeto: Nesse projeto tivemos uma equipe reduzida e com novos integrantes que nunca tínhamos trabalhado, então foi necessário organizar bem o projeto para que todos pudessem trabalhar e entregar o que foi proposto para o cliente.
+
+- Resiliência: Como mencionado anteriormente esse projeto foi particularmente desafiador por não termos experiência prévia, porém seguimos estudando e desenvolvendo de acordo com o que combinamos com o cliente.
+
+- Comunicação: Como a equipe ainda não se conhecia foi imprescindível uma boa comunicação com reuniões quase todos os dias para que possamos entender melhor em que parte do desenvolvimento cada integrante estava e como poderíamos trabalhar melhor ajudando em tudo que fosse necessário.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Meus Principais Conhecimentos
 
 - NodeJS;
